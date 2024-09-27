@@ -111,7 +111,6 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 
 ```json
-Copy code
 "scripts": {
   "start": "webpack serve --mode development",
   "build": "webpack --mode production"
