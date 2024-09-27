@@ -71,7 +71,6 @@ module.exports = {
 > Создай папку src и добавь файлы:
 
 ```bash
-Copy code
 mkdir src
 touch src/index.js src/index.html
 ```
