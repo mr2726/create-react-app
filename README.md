@@ -1,3 +1,5 @@
+> If you using `git clone` after that past `npm i` to insrall reps
+
 # Создание React-проекта без `create-react-app` с использованием Webpack
 
 ## Шаг 1: Инициализация проекта с помощью npm
@@ -25,7 +27,6 @@ npm install html-webpack-plugin --save-dev
 >Создай файл конфигурации .babelrc:
 
 ```json
-Copy code
 {
   "presets": ["@babel/preset-env", "@babel/preset-react"]
 }
